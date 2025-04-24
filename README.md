@@ -30,7 +30,7 @@ Currently trying to master deep learning and the math behind other adjacent Mach
 - International Politics
 - Model and Regular United Nations
 - Anime (I'm a sucker for rom-coms but I love classic shonen animes: I last watched JJK)
-- Shows involving ethical dilemmas: I love watching shows that make me think, if I find time to watch them. I watched Arcance last and it was awesome!
+- Shows involving ethical dilemmas: I love watching shows that make me think, if I find time to watch them. I watched Arcane last and it was awesome!
 ---
 
 ## 📚 Background
