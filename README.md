@@ -18,19 +18,26 @@ Feel free to reach out to me through [email](mailto:tej.gumaste@gmail.com) or [L
 I'm currently working on DAIM, which stands for decentralized AI marketplace. DAIM aims to be exactly as advertised, a Decentralized AI marketplace where you are the owner of your innovation. View the project [here](https://github.com/Vegito2367/DAIM). Its my attempt at making AI more transparent for everyone.
 
 ---
-## 🌱 I’m currently learning
+## What I’m currently learning
 
 Currently trying to master deep learning and the math behind other adjacent Machine learning models!
 
 ---
+## Ask me about
+- Computer Science (Graph Theory)
+- Differential Equations/Applied Mathematics
+- Navigating life as an international student
+- International Politics
+- Model and Regular United Nations
+- Anime (I'm a sucker for rom-coms but I love classic shonen animes: I last watched JJK)
+- Shows involving ethical dilemmas: I love watching shows that make me think, if I find time to watch them. I watched Arcance last and it was awesome!
+---
 
 ## 📚 Background
 
-- 🧠 Undergraduate Researcher at **Blakemore Lab**, using data engineering and graph theory to model interactions in inorganic X-ray crystallography structures.
-- 🧪 Former Software Engineering Intern at **Security Benefit**, where I built custom APIs and automated AWS-based ETL pipelines.
-- 🌍 Ex-VP of Engineering at **KU Blockchain Institute**, leading workshops on blockchain fundamentals and decentralized development.
-- 📈 Honors Peer Mentor, Honors Ambassador, and passionate about interdisciplinary learning—bridging chemistry, computation, and clean energy.
-
+- 🇮🇳🇦🇪 International student born in India, raised in Dubai
+- Undergraduate Researcher at **Blakemore Lab**, using data engineering and graph theory to model interactions in inorganic X-ray crystallography structures.
+- Ex-VP of Engineering at **KU Blockchain Institute**, leading workshops on blockchain fundamentals and decentralized development.
 ---
 
 ## 🏆 Scholarships & Awards
