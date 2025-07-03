@@ -2,6 +2,8 @@
 
 I'm a curious builder, and a data-driven researcher pursuing my B.S. in **Computer Science** with a **Mathematics minor** at the University of Kansas. I’m passionate about solving problems at the intersection of software engineering, AI, and scientific discovery.
 
+I'm currently interning @ Gemini Exchange in NYC. Feel free to hmu on LinkedIn (vide infra) if you're in NYC!
+
 Outside of computer science, I love exploring new math concepts, playing badminton and travelling!!
 
 I also dabble in Model United Nations sometimes!
