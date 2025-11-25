@@ -35,14 +35,14 @@ Currently trying to master deep learning and the math behind other adjacent Mach
 - Shows involving ethical dilemmas: I love watching shows that make me think, if I find time to watch them. I watched Arcane last and it was awesome!
 ---
 
-## 📚 Background
+## Background
 
 - 🇮🇳🇦🇪 International student born in India, raised in Dubai
 - Undergraduate Researcher at **Blakemore Lab**, using data engineering and graph theory to model interactions in inorganic X-ray crystallography structures.
 - Ex-VP of Engineering at **KU Blockchain Institute**, leading workshops on blockchain fundamentals and decentralized development.
 ---
 
-## 🏆 Scholarships & Awards
+## Scholarships & Awards
 
 | Award                                         | Description                                                                 |
 | --------------------------------------------- | --------------------------------------------------------------------------- |
@@ -52,7 +52,7 @@ Currently trying to master deep learning and the math behind other adjacent Mach
 | **Wealthy Babcock Scholarship**               | Top 5% of mathematics department for academic excellence                    |
 ---
 
-## 🥇 Hackathon Wins
+## Hackathon Wins
 
 - [**Midwest Blockathon 2025 — 1st Place (Autonomy AI Challenge)**](https://devpost.com/software/daim)  
   _Built DAIM: A decentralized AI model-sharing marketplace hosted on IPFS_
@@ -66,12 +66,12 @@ Thanks for stopping by! Feel free to check out some of my featured projects:
 - [MathVenture – Speed Math Web App](https://math-venture.com/)
 - [LogReg Feature Selection](https://github.com/Vegito2367/LogResFeatureSelection)
 - [Email Classifier](https://github.com/Vegito2367/EmailClassifier)
-- 🌳 [Tree (HackUTD)](https://github.com/Vegito2367/Tree-HackUTD)
+- [Tree (HackUTD)](https://github.com/Vegito2367/Tree-HackUTD)
 
 ---
 
-📬 Reach me at: [tej.gumaste@gmail.com](mailto:tej.gumaste@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/tej-gumaste) • [GitHub](https://github.com/Vegito2367) • [Website](https://tejgumaste.com)
+Reach me at: [tej.gumaste@gmail.com](mailto:tej.gumaste@gmail.com)  
+[LinkedIn](https://linkedin.com/in/tej-gumaste) • [GitHub](https://github.com/Vegito2367) • [Website](https://tejgumaste.com)
 
 
 
