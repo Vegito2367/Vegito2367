@@ -17,12 +17,12 @@ Feel free to reach out to me through [email](mailto:tej.gumaste@gmail.com) or [L
 ---
 ## What I'm currently working on
 
-I'm currently working on DAIM, which stands for decentralized AI marketplace. DAIM aims to be exactly as advertised, a Decentralized AI marketplace where you are the owner of your innovation. View the project [here](https://github.com/Vegito2367/DAIM). Its my attempt at making AI more transparent for everyone.
+I'm getting ready to graduate from college. Recently, I published an open source tool called PyCIFTer to enable large scale analysis of CIF crystal structures. I am continuing the development of this tool. Along with this tool I published a [peer-reviewed research paper](https://www.mdpi.com/1420-3049/31/1/18) that showcases the utility of PyCIFTer.
 
 ---
 ## What I’m currently learning
 
-Currently trying to master deep learning and the math behind other adjacent Machine learning models!
+I'm fascinated with low-level programming. I'm building skills in C++ and other low level language and I am busy making small and fast c++ applications!
 
 ---
 ## Ask me about
@@ -32,7 +32,7 @@ Currently trying to master deep learning and the math behind other adjacent Mach
 - International Politics
 - Model and Regular United Nations
 - Anime (I'm a sucker for rom-coms but I love classic shonen animes: I last watched JJK)
-- Shows involving ethical dilemmas: I love watching shows that make me think, if I find time to watch them. I watched Arcane last and it was awesome!
+- Shows involving ethical dilemmas: I love watching shows that make me think, if I find time to watch them. I finished Arcane and it was awesome!
 ---
 
 ## Background
@@ -63,10 +63,11 @@ Currently trying to master deep learning and the math behind other adjacent Mach
 ---
 
 Thanks for stopping by! Feel free to check out some of my featured projects:
-- [MathVenture – Speed Math Web App](https://math-venture.com/)
-- [LogReg Feature Selection](https://github.com/Vegito2367/LogResFeatureSelection)
-- [Email Classifier](https://github.com/Vegito2367/EmailClassifier)
-- [Tree (HackUTD)](https://github.com/Vegito2367/Tree-HackUTD)
+- [Portoflio](https://tejgumaste.com)
+- [PyCIFTer](https://github.com/Vegito2367/PyCIFTer)
+- [LookSmith](https://github.com/Vegito2367/LookSmith)
+- [Crown Ether structural analysis](https://github.com/Vegito2367/CrownEtherProject)
+- [Custom CICD Pipeline](https://github.com/Vegito2367/CustomCICD)
 
 ---
 
@@ -74,18 +75,3 @@ Reach me at: [tej.gumaste@gmail.com](mailto:tej.gumaste@gmail.com)
 [LinkedIn](https://linkedin.com/in/tej-gumaste) • [GitHub](https://github.com/Vegito2367) • [Website](https://tejgumaste.com)
 
 
-
-<!--
-**Vegito2367/Vegito2367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
