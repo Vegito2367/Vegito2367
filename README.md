@@ -52,7 +52,10 @@ I'm fascinated with low-level programming. I'm building skills in C++ and other 
 | **Wealthy Babcock Scholarship**               | Top 5% of mathematics department for academic excellence                    |
 ---
 
-## Hackathon Wins
+## Competition Wins
+
+- [**1st Kirkendall Awards Ideation Challenge**](https://business.ku.edu/news/article/ku-students-tackle-ethical-ai-use-in-education-through-school-of-business-inaugural-kirkendall-awards-ideation-challenge)
+  _Won 1st place at the inaugral edition of the Kirkendall Ideation Challenge. This challenge is an interdisciplinary case competition where teams of two engineering and two business students work together to tackle a problem statement. This year's prompt was: How might we ethically integrate AI with eduation._
 
 - [**Midwest Blockathon 2025 — 1st Place (Autonomy AI Challenge)**](https://devpost.com/software/daim)  
   _Built DAIM: A decentralized AI model-sharing marketplace hosted on IPFS_
