@@ -31,6 +31,8 @@ I'm fascinated with low-level programming. I'm building skills in C++ and other 
 - Model and Regular United Nations
 - Anime (I'm a sucker for rom-coms but I love classic shonen animes: I last watched JJK)
 - Shows involving ethical dilemmas: I love watching shows that make me think, if I find time to watch them. I finished Arcane and it was awesome!
+- Currently watching: Frieren
+- Games I'm playing at the moment: Ghost of Tsushima and Dragon Ball FighterZ
 ---
 
 ## Background
@@ -51,6 +53,9 @@ I'm fascinated with low-level programming. I'm building skills in C++ and other 
 ---
 
 ## Competition Wins
+
+- [**Winner of the TRON Payments + DeFi Track at Penn Blockchain Conference 2026**](https://youtu.be/C4bxP0Gph7w)
+  _Created an NFC enabled Tap to pay system using cryptocurrency settlements. The payment is initiated in TRX an L1 blockchain and settled in USDT_
 
 - [**1st Kirkendall Awards Ideation Challenge**](https://business.ku.edu/news/article/ku-students-tackle-ethical-ai-use-in-education-through-school-of-business-inaugural-kirkendall-awards-ideation-challenge)
   _Won 1st place at the inaugral edition of the Kirkendall Ideation Challenge. This challenge is an interdisciplinary case competition where teams of two engineering and two business students work together to tackle a problem statement. This year's prompt was: How might we ethically integrate AI with eduation._
